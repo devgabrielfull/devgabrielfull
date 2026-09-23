@@ -97,8 +97,6 @@ Hoje, meu foco de estudo está em **SQL, Docker e desenvolvimento de APIs e Clou
   <a href="https://github.com/devgabrielfull"><img src="https://img.shields.io/badge/GitHub-0C0822?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub de Gabriel Costa" /></a>
 </p>
 
-<p align="center"><sub>Do Rio de Janeiro, um commit por vez. ✦</sub></p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0C0822,55:2B2062,100:8F46A9&amp;height=100&amp;section=footer" width="100%" alt="Rodapé em tons de violeta e rosa" />
 </p>

@@ -70,24 +70,6 @@ Hoje, meu foco de estudo está em **SQL, Docker e desenvolvimento de APIs e Clou
   <img src="https://streak-stats.demolab.com?user=devgabrielfull&amp;hide_border=true&amp;background=0C0822&amp;ring=8F46A9&amp;fire=D7B3EC&amp;currStreakNum=F1E5F7&amp;sideNums=F1E5F7&amp;currStreakLabel=D7B3EC&amp;sideLabels=C3AFD7&amp;dates=C3AFD7&amp;stroke=2B2062" alt="Sequência de contribuições de Gabriel Costa" />
 </p>
 
-### Atividade recente
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devgabrielfull&amp;bg_color=0C0822&amp;color=E6D8F0&amp;title_color=D7B3EC&amp;line=8F46A9&amp;point=CD94E0&amp;area=true&amp;area_color=2B2062&amp;hide_border=true&amp;custom_title=Atividade%20no%20GitHub" width="100%" alt="Gráfico de atividade recente no GitHub" />
-</p>
-
-### Contribuições em movimento
-
-<!-- A animação abaixo aparece após executar o workflow .github/workflows/snake.yml pela primeira vez. -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devgabrielfull/devgabrielfull/output/github-contribution-grid-snake.svg" width="100%" alt="Animação snake percorrendo as contribuições de Gabriel Costa" />
-</p>
-
-### Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devgabrielfull&amp;theme=aura&amp;row=1&amp;column=5&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="Troféus calculados a partir da atividade pública no GitHub" />
-</p>
 
 ## Contato
 
